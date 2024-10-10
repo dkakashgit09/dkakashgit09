@@ -27,6 +27,6 @@ Feel free to explore my repositories and learn about how I use **Java**, **Sprin
 ## ☕ Support Me
 If you find my work helpful and want to show appreciation, consider buying me a coffee!
 
-[Buy Me a Coffee](https://buymeacoffee.com/akashdk)
+<a href="https://www.buymeacoffee.com/AkashDK" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 Your support means a lot and helps me keep creating useful content. Thank you! 🚀
