@@ -9,9 +9,9 @@ Hi, I’m **D.K. Akash**, a passionate software developer with expertise in **Ja
 - AWS | Databricks | Apache Spark | Apache Kafka | JWT | REST APIs | MAUI
 
 ## 🛠 Projects I’ve Worked On:
+- 📦 SCMXpertLite: A supply chain management tool featuring shipment creation, deletion, live data streaming, and user authentication. [View Repository](https://github.com/dkakashgit09/SCMXpertLite)
 - 💳 Banking Application: Built account management functionalities like transactions and account deletion.
 - 📱 QR Code Generator: Convert simple text into QR images.
-- 📦 SCMXpertLite: A supply chain management tool featuring shipment creation, deletion, live data streaming, and user authentication.
 - ⚙️ Migration Tool: Integrated this tool within Databricks for seamless data migration and management.
 - 🔢 DSA Problems: Solved numerous Data Structures and Algorithms (DSA) problems independently, honing my problem-solving and algorithmic thinking skills.
 
@@ -22,5 +22,11 @@ Apart from my coding world, I’m a **fitness trainer**, and I follow a discipli
 I believe in continuous learning, and right now, I’m diving deep into **Quantum Technology**—the future of computing! With a passion for both software development and fitness, I aim to blend physical and mental strength in my daily routine.
 
 ## 🌟 Explore my Projects:
-Feel free to explore my repositories, from banking apps to supply chain tools, and learn about how I use **Java**, **Spring Boot**, and more to build efficient, scalable systems.
+Feel free to explore my repositories and learn about how I use **Java**, **Spring Boot**, and more to build efficient, scalable systems.
 
+## ☕ Support Me
+If you find my work helpful and want to show appreciation, consider buying me a coffee!
+
+[Buy Me a Coffee](https://buymeacoffee.com/akashdk)
+
+Your support means a lot and helps me keep creating useful content. Thank you! 🚀
